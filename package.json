@@ -5,7 +5,7 @@
   "dependencies": {
     "@material-ui/core": "4.7.2",
     "@material-ui/icons": "4.5.1",
-    "@material-ui/styles": "4.7.1",
+    "@mui/styles": "5.0.0",
     "@sentry/browser": "5.10.2",
     "firebase": "7.5.2",
     "lodash": "4.17.19",
